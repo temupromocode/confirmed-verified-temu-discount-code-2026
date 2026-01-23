@@ -217,3 +217,16 @@ If you are a new or inactive Temu user, use the mobile app, stack rewards correc
 
 **Disclosure:**  
 Coupons and rewards change. Always verify at checkout.
+
+
+---
+
+## Community and Resources
+
+For updates, verified deals, and ongoing discussions:
+
+- 🌐 Official website: https://www.couponcodesglitch.com/
+- 💬 Facebook community group: https://www.facebook.com/groups/977087753831484
+
+These resources are updated regularly with new discount codes, user feedback, and active deal confirmations.
+
