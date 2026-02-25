@@ -2,5 +2,6 @@ site_name: Temu 2026 Official Codes
 site_url: https://couponcodesglitch.com
 theme:
   name: material
+docs_dir: .
 nav:
   - Home: README.md
